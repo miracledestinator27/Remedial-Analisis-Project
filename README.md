@@ -2,7 +2,7 @@
 
 ## Deskripsi Project
 
-Project ini adalah tugas submission analysis data Python berdasarkan e-commerce ata set
+Project ini adalah tugas submission analysis data Python berdasarkan e-commerce data set
 
 ## Struktur Folder
 
